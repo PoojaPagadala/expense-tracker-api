@@ -20,11 +20,7 @@ Built using FastAPI and local JSON storage.
     version="1.0.0",
     contact={
         "name": "Pagadala Pooja",
-        "email": "poojapagadala4245@gmail.com",
     },
-    license_info={
-        "name": "MIT"
-    }
 )
 
 app.include_router(router)
